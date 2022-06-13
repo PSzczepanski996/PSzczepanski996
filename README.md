@@ -6,7 +6,7 @@ I also have almost 4 years experience with writing *various* django (python-base
 
 - 🔭 I’m currently working on myself - I really want to take break from IT stuff and lose weight
 - 🌱 I’m currently learning real frontend frameworks, other than *jQuery*
-- 💬 Ask me about Hackintoshes or Linux - do you remember GNU/Linux paste or golden Hackintosh Poland 2015/2016 era?
+- 💬 Ask me about Linux or Hackintoshes - do you remember GNU/Linux paste or golden Hackintosh Poland 2015/2016 era?
 - 📫 How to reach me: send mail to **p.szczepanski996@gmail.com**
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have speech impediment, that led to funny situations in my high school
