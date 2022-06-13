@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Patrick Szczepański, and I live in [Olsztyn](https://www.google.com/maps/place/Olsztyn/data=!4m2!3m1!1s0x46e2792d071419c7:0x106a8126cf54c20f?sa=X&ved=2ahUKEwiA6auf16n4AhUBv4sKHaj0BhgQ8gF6BAhhEAE) since I was born.  
-I'm currently finishing [Informatic Technology](http://wmii.uwm.edu.pl/) studies at [University of Warmia and Mazury](http://www.uwm.edu.pl/).  
+I'm currently finishing [Information Technology](http://wmii.uwm.edu.pl/) studies at [University of Warmia and Mazury](http://www.uwm.edu.pl/).  
 I also have almost 4 years experience with writing *various* django (python-based web framework) stuff.
 
 - 🔭 I’m currently working on myself - I really want to take break from IT stuff and lose weight
