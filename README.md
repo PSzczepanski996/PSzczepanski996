@@ -28,3 +28,7 @@ I want also to thank my friend Grzesiek that provided me some parts of code (mai
 - [io_projekt](https://github.com/PSzczepanski996/io_projekt)
 
 Application that manages dispatchers and Taxi drivers, written in pure Django and jQuery.
+
+- [xapian_haystack](https://github.com/PSzczepanski996/xapian-haystack)
+
+Xapian-haystack port to new versions of Django made years ago (now it's unneccesary because there is new main repository maintainer).
