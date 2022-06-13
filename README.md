@@ -31,4 +31,4 @@ Application that manages dispatchers and Taxi drivers, written in pure Django an
 
 - [xapian_haystack](https://github.com/PSzczepanski996/xapian-haystack)
 
-Xapian-haystack port to new versions of Django made years ago (now it's unneccesary because there is new main repository maintainer).
+Xapian-haystack port to new versions of Django made years ago (now it's unneccesary because there is new repository maintainer).
