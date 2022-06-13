@@ -23,7 +23,7 @@ First game for subject called "Team Project" at my studies written in javascript
 
 Big application that provides you way to manage students for practice/work, not finished due to lack of time.  
 Has chat functionality (based on websockets/django-channels), views based on REST framework API, and VueJS frontend demo.  
-I want also to thank my friend Grzesiek that provided me some parts of code (mainly frontend) and testing/debugging.
+I want also to thank my friend Grzesiek that provided me some parts of code (mainly frontend) and testing or debugging.
 
 - [io_projekt](https://github.com/PSzczepanski996/io_projekt)
 
